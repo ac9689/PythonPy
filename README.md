@@ -1,2 +1,1 @@
-# PythonPy
-Python for programming
+Python for Devops
