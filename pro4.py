@@ -1,0 +1,7 @@
+file = open('/home/ashwani/Desktop/wwe.txt', 'a')
+obj=file.write("Busitantsinc\n")
+print(obj)
+file.close()
+file = open('/home/ashwani/Desktop/wwe.txt', 'r')
+obj=file.read()
+print(obj)
