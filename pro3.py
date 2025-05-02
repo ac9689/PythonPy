@@ -8,3 +8,4 @@ if "busitantsinc" not in obj:
     file= open('/home/ashwani/Desktop/wwe.txt', 'a')
     a = file.write("john\n")
     print(a)
+    

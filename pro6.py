@@ -1,7 +1,6 @@
 # user input
 name = input("enter the name : ")
 print("hello", name)
-
 fruits = ['apple', 'banana', 'cherry']
 for fruit in fruits:
     print(fruit)
