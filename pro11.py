@@ -1,7 +1,6 @@
 tot=0
 for i in range(2, 11, 5):
     tot += i
-    continue
     print("sum is :", tot)
     
 
